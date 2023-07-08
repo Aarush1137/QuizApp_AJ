@@ -29,8 +29,8 @@
 <h2>Screenshots</h2>
 
 <img src="screenshots/Screenshot 1.jpg" alt="Screenshot 1">
-<img src="screenshots/screenshot 2.jpg" alt="Screenshot 2">
-<img src="screenshots/screenshot 3.jpg" alt="Screenshot 3">
+<img src="screenshots/Screenshot 2.jpg" alt="Screenshot 2">
+<img src="screenshots/Screenshot 3.jpg" alt="Screenshot 3">
 
 <h2>Contributing</h2>
 
