@@ -43,7 +43,7 @@ class ButtonSelectActivity : AppCompatActivity() {
 
         //Display previous score
         btn_view_score.setOnClickListener{
-            Toast.makeText(this,"Your previous score was: $mScore/4", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Your previous score was: $mScore/6", Toast.LENGTH_SHORT).show()
         }
     }
 }
